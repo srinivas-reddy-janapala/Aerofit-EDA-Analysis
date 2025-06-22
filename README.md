@@ -3,7 +3,7 @@
 
 # Aerofit Customer Analysis Project
 
-This project analyzes customer data of **Aerofit**, a fitness equipment company. It identifies patterns in customer behavior, product preferences, and helps derive useful business insights.
+This project analyzes customer data of **Aerofit**, a fitness equipment company. In this we are analysing the product preference based on gender, Age,Income and Marital Status  and getting Insights, How it will increase the sales of the Product.
 
 ## 🧪 Tools Used
 - Google Colab (Jupyter Notebook)

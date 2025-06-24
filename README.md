@@ -17,9 +17,7 @@ Click below to open the notebook directly in Google Colab:
 👉 [Open in Google Colab][(https://colab.research.google.com/github/rinivas-reddy-janapala/Aerofit-EDA-Analysis/blob/main/aerofit.ipynb)
 ](https://colab.research.google.com/github/srinivas-reddy-janapala/Aerofit-EDA-Analysis/blob/main/aerofit.ipynb)
 
-*(Replace `your-username` and repo name once uploaded)*
 
----
 
 ## 🎯 Project Goals
 - Analyze customer age, gender, income, and product type
